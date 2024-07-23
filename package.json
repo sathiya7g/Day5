@@ -1,9 +1,9 @@
 {
-  "name": "day-5",
+  "name": "Day5",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/sathiya7g/day-5.git",
+  "homepage": "https://github.com/sathiya7g/Day5.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
