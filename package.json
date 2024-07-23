@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/sathiya7g/Day5.git",
+  "homepage": "https://sathiya7g.github.io/Day5",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
